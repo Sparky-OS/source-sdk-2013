@@ -1,3 +1,28 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/sparky-stereo-os/sparkyos-swirl-light-128.png">
+  <img src=".github/sparky-stereo-os/sparkyos-swirl-dark-128.png" alt="SparkyOS" width="128" height="128">
+</picture>
+
+## Sparky Stereo OS
+
+This is Sparky Stereo OS's stereo work on the Source SDK 2013, forked from [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013).
+It adds the `sourcevr_display` module: Half-Life 2 played in stereo 3D on a 3D display, and stereo screenshots in Steam as side by side, JPS and MPO pictures.
+
+Where it comes from:
+
+- The [Source SDK 2013](https://developer.valvesoftware.com/wiki/SDK2013_GettingStarted) is made by Valve Corporation.
+- [Debian](https://www.debian.org/) is the base of the system.
+- [SparkyLinux](https://sparkylinux.org/), by Paweł "pavroo" Pijanowski, builds on Debian.
+- [Sparky Stereo OS](https://github.com/Sparky-OS/sparky-stereo-os) is the stereo 3D edition of SparkyLinux: SparkyOS, powered by Debian.
+
+The `stereo3d-screenshots` branch holds the version the distribution builds.
+The licence is unchanged; see [LICENSE](LICENSE).
+Valve, Source and Half-Life are trademarks of Valve Corporation.
+
+Sparky Stereo OS, Daniel Ramos's edition of SparkyLinux (by Paweł "pavroo" Pijanowski).
+
+---
+
 # Source SDK 2013
 
 Source code for Source SDK 2013.
